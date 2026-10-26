@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Friday Night Funkin' - Psych Engine v0.7.3 Template
 
 This Template for Making any Mods and Engines you want, with Mobile Support.
@@ -121,3 +122,6 @@ _____________________________________
 =======
 # hello-john-doe-mobile-port
 >>>>>>> 1e65196d22046e058b1ac87f53fcfea9ad00257f
+=======
+
+>>>>>>> cc33d0e477884dcf3ab57b0dde0055ffb675c266
